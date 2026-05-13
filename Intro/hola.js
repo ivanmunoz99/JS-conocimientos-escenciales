@@ -1,0 +1,2 @@
+
+alert("desde un .JS");
